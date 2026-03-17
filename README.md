@@ -25,11 +25,11 @@ This project teaches a professional gesture recognition pipeline where you can:
 
 ---
 
-## Separate Repository
+## More Projects
 
-You can also access this project in a separate repository:
+You can access this project and more in this separate repository:
 
-[Gesture-Controlled Slideshow Repository](https://github.com/placeholder/gesture-controlled-slideshow.git)
+[student-interview-prep](https://github.com/ShamShamsw/student-interview-prep.git)
 
 ---
 
